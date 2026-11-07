@@ -1,1 +1,18 @@
-{"name":"dongurikobo MD PLAYER","short_name":"MD PLAYER","start_url":"./","scope":"./","display":"standalone","background_color":"#c9ced8","theme_color":"#8995aa","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "DONIX D-WALK MiniDisc Player",
+  "short_name": "DONIX D-WALK",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#c9ced8",
+  "theme_color": "#8995aa",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "DONIX DX-MD01 レトロMD音楽プレイヤー"
+}
